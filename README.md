@@ -1,4 +1,4 @@
-- 👋 Hi, I’m mfreke Akpan
+- 👋 Hi, I’m Maranatha Akpan
 - 👀 I’m interested in Gigs
 - 🌱 I’m currently learning front-end Development
 - 💞️ I’m looking to collaborate on 
